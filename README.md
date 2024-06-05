@@ -41,9 +41,9 @@ THEN I am taken to the corresponding section of the README
 ### Screenshots:
 The following screenshots demonstrate the application's functionality and appearance:
 
-![Shows screenshot of the prompts made to the user via the inquirer command line interface.](assets/images/user-input-screenshot.png)
+![Shows screenshot of the prompts made to the user via the inquirer command line interface.](Assets/Images/user-input-screenshot.png)
 
-![Shows screenshot of a portion of a sample README.md file generated via the application.](assets/images/README-generated-screenshot.png)
+![Shows screenshot of a portion of a sample README.md file generated via the application.](Assets/Images/README-generated-screenshot.png)
 
 ### Walkthrough Video Link: 
 To further demonstrate the functionality and typical user flow of the Node.js README Generator application, please view the following walkthrough video on Google Drive: ***insert video link***
