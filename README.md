@@ -4,6 +4,7 @@
 
 This week's challenge involves ***
 
+
 ## User Story
 
 ```md
@@ -38,17 +39,24 @@ THEN I am taken to the corresponding section of the README
 ## Usage
 
 ### Screenshots:
-The following images shows the web application's appearance:***
+The following screenshots demonstrate the application's functionality and appearance:
 
-![Shows first page of deployed web application in light mode entitled "My First Blog" as well as a form with labels and inputs for username, blog title, and blog content.](assets/images/Personal-blog-page-1-light.png)
+![Shows screenshot of the prompts made to the user via the inquirer command line interface.](assets/images/user-input-screenshot.png)
 
-![Shows second page of deployed web application in light mode with a list of blog post entries, including titles, content, and author of the posts.](assets/images/Personal-blog-page-2-light.png)
+![Shows screenshot of a portion of a sample README.md file generated via the application.](assets/images/README-generated-screenshot.png)
 
 ### Walkthrough Video Link: 
+To further demonstrate the functionality and typical user flow of the Node.js README Generator application, please view the following walkthrough video on Google Drive: ***insert video link***
 
 
 ## Credits
-Used the following sources as tutorials and guidelines: ***
+Used the following sources as tutorials and guidelines:
+
+Inquirer npm Webpage: https://www.npmjs.com/package/inquirer 
+
+Professional README Guide Webpage: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+
+Video Submission Guide Webpage: https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide
 
 Also utilized the Xpert Learning assistant for some portions of my code:
 https://bootcampspot.instructure.com/courses/5293/external_tools/313
