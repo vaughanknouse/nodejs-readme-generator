@@ -14,7 +14,7 @@ This is a command-line application designed to help developers quickly create a 
 - [Questions](#questions)
 
 ## Installation
-1. Clone the repository. 2. Navigate to the project's folder in your terminal. 3. Install the necessary dependencies by running `npm install`.
+Clone the repository. 2. Navigate to the project's folder in your terminal. 3. Install the necessary dependencies by running `npm install`.
 
 ## Usage
 To run the project, use the following command: `node index.js`.
